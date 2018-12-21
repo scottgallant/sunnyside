@@ -1,7 +1,7 @@
 ---
 title: Eggs
 template: project
-date: 2018-11-18 01:42:51 +0000
+date: 2018-11-18T01:42:51+00:00
 description: This is a project about eggs
 gallery_images:
 - "/media/download (2).jpeg"
